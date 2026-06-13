@@ -1,14 +1,15 @@
 <!-- BANNER -->
 <div align="center">
-  <img src="https://file.garden/aiDPtHaSGigyN1-N/heart-hearts.gif" width="25%">
-  <img src="https://file.garden/aiDPtHaSGigyN1-N/komahinabanner" width="40%">
-  <img src="https://file.garden/aiDPtHaSGigyN1-N/heart-hearts.gif" width="25%">
+  <img src="https://img1.picmix.com/output/stamp/normal/7/5/3/4/1754357_c000b.gif" width="25%">
+  <img src="https://file.garden/aiDPtHaSGigyN1-N/gerardsilly" width="40%">
+  <img src="https://img1.picmix.com/output/stamp/normal/7/5/3/4/1754357_c000b.gif" width="25%">
 </div>
 <!--TITLE TEXT-->
 <div align="center">
-  <h1><strong><b>ꮺֵ · ꭐǝlco͟me ' ṯo ★ mγ ֵ bɩ͟ↄ . ﾹ</b></strong></h1>
-  <br>
-    <img src="https://file.garden/aiDPtHaSGigyN1-N/danganronpabannerpink" width="100%">
+  <h1><strong><b>￫ ⸼ ‟ 🌈ﾠWELCOME TO THE BLACK PARADE!„ ⭑ ！</b></strong></h1>
+  <img src="https://file.garden/aiDPtHaSGigyN1-N/200_d.gif" width="50%">
+  
+   <img src="https://file.garden/aiDPtHaSGigyN1-N/ezgif-769a725a1ed1e1fd.gif" width="17.6%"> <img src="https://file.garden/aiDPtHaSGigyN1-N/funpoison" width="50%"><img src="https://file.garden/aiDPtHaSGigyN1-N/ezgif-769a725a1ed1e1fd.gif" width="17.6%"> 
   <br>
   <br>
   <br>
@@ -19,23 +20,25 @@
 <tr>
 
 <td valign="top" width="310">
-<br>
-<img src="https://file.garden/aiDPtHaSGigyN1-N/e66fb5afea4559011643b5879919a80d.jpg" width="215">
-<img src="https://file.garden/aiDPtHaSGigyN1-N/tumblr_inline_mkfotb8oM91roozkr540.gif" width="20%" height=1500>
+<br><br>
+<img src="https://i.quotev.com/k6kapm6umtnq.jpg" width="231.500">
+<img src="https://file.garden/aiDPtHaSGigyN1-N/ezgif-695c55764ec5f107.gif" width="16.4%" height=1500>
 
 </td>
 <!--TEXT-->
 <td avalign="top">
   <p align="center">
 <br>
-    I'd end my days with you in a hail of bullets<br>
-    I'm trying, I'm trying<br>
-    To let you know just how much you mean to me<br>
-    And after all the things we put each other through and<br>
-    I would drive on to the end with you.<br>
+I'm trying, I'm trying<br>
+To let you know how much you mean<br>
+As days fade and nights grow<br>
+And we grow cold<br>
+But this time, we'll show them<br>
+We'll show them all how much we mean<br>
+As snow falls on desert sky until the end of every<br>
     </p>
   <p align="center">
-<img src="https://file.garden/aiDPtHaSGigyN1-N/komahina_pixel_by_neon_nuisance_dco2nsf-fullview.png" width="40%">
+<img src="https://file.garden/aiDPtHaSGigyN1-N/55bcc502e3575da9db05be8b8bea8475-removebg-preview.png" width="30%">
     </p>
 </td>
 <!--FINISH TEXT-->
@@ -48,9 +51,9 @@
 
 <!-- Banner de abajo -->
 <div align="center">
-  <img src="https://i.pinimg.com/originals/64/d9/e9/64d9e9da2e50e757e42781a1d649b20a.gif" width="25%">
-    <img src="https://file.garden/aiDPtHaSGigyN1-N/sillybanner" width="45%">
-    <img src="https://i.pinimg.com/originals/64/d9/e9/64d9e9da2e50e757e42781a1d649b20a.gif" width="25%">
+  <img src="https://file.garden/aiDPtHaSGigyN1-N/2394586_c3116.gif" width="25%">
+    <img src="https://file.garden/aiDPtHaSGigyN1-N/gerard-way.gif" width="30%">
+    <img src="https://file.garden/aiDPtHaSGigyN1-N/2394586_c3116.gif" width="25%">
    
 </div>
 </div>
