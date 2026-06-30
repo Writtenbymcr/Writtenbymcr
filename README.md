@@ -51,7 +51,7 @@
   <p align="center">
 <br>
     <br>
-★Hi, everyone! My name is Matthias Alexander, but you can call me Sasha! I might have TID, so please be patient with me. 
+★Hi, everyone! My name is Matthias Alexander, but you can call me Sasha! I might have DID, so please be patient with me. 
     I’m also very sensitive about self-harm, so please don’t vent with me unless you’re my friend.
     <br>
     ★I’m usually very active; I like playing Roblox, LoL, and any other games you invite me to play. (Secretly, I’m a vampire.)</p>
