@@ -52,9 +52,9 @@
 <br>
     <br>
 ★Hi, everyone! My name is Matthias Alexander, but you can call me Sasha! I might have DID, so please be patient with me. 
-    I’m also very sensitive about self-harm, so please don’t vent with me unless you’re my friend.
+    I’m also very sensitive about self-harm, so please don’t vent with me unless you’re my friend. <img src="https://file.garden/aiDPtHaSGigyN1-N/imagenes/tumblr_62e72aabb12843290dc5fc8376b13705_9c619f00_75.webp" width="3%">
     <br>
-    ★I’m usually very active; I like playing Roblox, LoL, and any other games you invite me to play. (Secretly, I’m a vampire.)</p>
+    ★I’m usually very active; I like playing Roblox, LoL, and any other games you invite me to play. (Secretly, I’m a vampire.)<img src="https://file.garden/aiDPtHaSGigyN1-N/imagenes/tumblr_d0b97d4e6bf84c967ee62734f31aa7a6_7c59c150_75.webp" width="3%"></p>
   <p align="center">
 <img src="https://file.garden/aiDPtHaSGigyN1-N/imagenes/OIP-removebg-preview.png" width="30%"><img src="https://file.garden/aiDPtHaSGigyN1-N/55bcc502e3575da9db05be8b8bea8475-removebg-preview.png" width="30%"><img src="https://file.garden/aiDPtHaSGigyN1-N/imagenes/OIP__1_-removebg-preview.png" width="30%">
     <br>
