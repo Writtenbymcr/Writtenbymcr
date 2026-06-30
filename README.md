@@ -13,7 +13,12 @@
 <!--TITLE TEXT-->
 <div align="center">
   <h1><strong><b>￫ ⸼ ‟ 🌈ﾠWELCOME TO THE BLACK PARADE!„ ⭑ ！</b></strong></h1>
-  <img src="https://file.garden/aiDPtHaSGigyN1-N/200_d.gif" width="50%">
+  </div>
+<div align="center">
+<img src="https://file.garden/aiDPtHaSGigyN1-N/dividers/picmix.com_2475045.gif" width="100%">
+  </div>
+  <div align="center">
+  <img src="https://file.garden/aiDPtHaSGigyN1-N/dividers/picmix.com_2335493.gif" width="50%">
   </div>
 <div align="center">
 <img src="https://file.garden/aiDPtHaSGigyN1-N/dividers/picmix.com_2769652.gif" width="50%">
