@@ -46,14 +46,10 @@
 <td avalign="top">
   <p align="center">
 <br>
-★I have a possible did <br>
-★PLEASE IWEC<br>
-★I'm a nagito big kin<br>
-★Freely block<br>
-★ESP/EN +17<br>
-★C+H freely<br>
-★a lonely lover<br>
-    </p>
+★Hi, everyone! My name is Matthias Alexander, but you can call me Sasha! I might have TID, so please be patient with me. 
+    I’m also very sensitive about self-harm, so please don’t vent with me unless you’re my friend.
+    <br>
+    ★I’m usually very active; I like playing Roblox, LoL, and any other games you invite me to play. (Secretly, I’m a vampire.)</p>
   <p align="center">
 <img src="https://file.garden/aiDPtHaSGigyN1-N/55bcc502e3575da9db05be8b8bea8475-removebg-preview.png" width="30%">
     </p>
@@ -73,4 +69,7 @@
     <img src="https://file.garden/aiDPtHaSGigyN1-N/gerard-way.gif" width="30%">
     <img src="https://file.garden/aiDPtHaSGigyN1-N/2394586_c3116.gif" width="25%">
 </div>
+</div>
+<div align="center">
+  <b>Never let them take the light behind your eyes</b>
 </div>
