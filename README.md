@@ -35,7 +35,6 @@
 <!--LEFT PICTURES-->
 <table align="center">
 <tr>
-
 <td valign="top" width="310">
 <br><br>
 <img src="https://i.quotev.com/k6kapm6umtnq.jpg" width="231.500">
@@ -46,6 +45,7 @@
 <td avalign="top">
   <p align="center">
 <br>
+    <br>
 ★Hi, everyone! My name is Matthias Alexander, but you can call me Sasha! I might have TID, so please be patient with me. 
     I’m also very sensitive about self-harm, so please don’t vent with me unless you’re my friend.
     <br>
@@ -61,8 +61,6 @@
 <img src="https://file.garden/aiDPtHaSGigyN1-N/dividers/picmix.com_1750258.gif" width="100%">
   </div>
 <!--FINISH TABLE-->
-
-
 <!-- Banner de abajo -->
 <div align="center">
   <img src="https://file.garden/aiDPtHaSGigyN1-N/2394586_c3116.gif" width="25%">
