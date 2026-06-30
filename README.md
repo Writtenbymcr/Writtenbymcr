@@ -55,7 +55,7 @@
     <br>
     ★I’m usually very active; I like playing Roblox, LoL, and any other games you invite me to play. (Secretly, I’m a vampire.)<img src="https://file.garden/aiDPtHaSGigyN1-N/imagenes/tumblr_d0b97d4e6bf84c967ee62734f31aa7a6_7c59c150_75.webp" width="3%"></p>
   <p align="center">
-<img src="https://file.garden/aiDPtHaSGigyN1-N/imagenes/OIP-removebg-preview.png" width="17%"><img src="https://file.garden/aiDPtHaSGigyN1-N/55bcc502e3575da9db05be8b8bea8475-removebg-preview.png" width="17%"><img src="https://file.garden/aiDPtHaSGigyN1-N/imagenes/OIP__1_-removebg-preview.png" width="17%">
+<img src="https://file.garden/aiDPtHaSGigyN1-N/imagenes/OIP-removebg-preview.png" width="20%"><img src="https://file.garden/aiDPtHaSGigyN1-N/55bcc502e3575da9db05be8b8bea8475-removebg-preview.png" width="20%"><img src="https://file.garden/aiDPtHaSGigyN1-N/imagenes/OIP__1_-removebg-preview.png" width="20%">
     <br><img src="https://file.garden/aiDPtHaSGigyN1-N/dividers/1dbe109b.gif" width="100%">
     <br>
     </p>
