@@ -60,6 +60,8 @@
 <div align="center">
 <img src="https://file.garden/aiDPtHaSGigyN1-N/dividers/picmix.com_1750258.gif" width="100%">
   </div>
+  <br>
+  <br>
 <!--FINISH TABLE-->
 <!-- Banner de abajo -->
 <div align="center">
