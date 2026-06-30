@@ -61,8 +61,9 @@ As snow falls on desert sky until the end of every<br>
 <!--FINISH TEXT-->
 </tr>
 </table>
-<br>
-<br>
+<div align="center">
+<img src="https://file.garden/aiDPtHaSGigyN1-N/dividers/picmix.com_1750258.gif" width="85%">
+  </div>
 <!--FINISH TABLE-->
 
 
