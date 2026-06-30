@@ -54,6 +54,7 @@ As snow falls on desert sky until the end of every<br>
   <img src="https://file.garden/aiDPtHaSGigyN1-N/2394586_c3116.gif" width="25%">
     <img src="https://file.garden/aiDPtHaSGigyN1-N/gerard-way.gif" width="30%">
     <img src="https://file.garden/aiDPtHaSGigyN1-N/2394586_c3116.gif" width="25%">
-   
+    <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Tiny5&size=40&duration=4968&pause=973&color=F700E1&background=002DFF00&center=true&width=435&lines=MCR+FAN;MSI+FAN;DANGANRONPA+FAN;ZENO+FAN;KOMAHINA+SHIPPER;FRERARD+SHIPPER;MCCAFFERTY+LISTENER;SCENE+BOY!" alt="Typing SVG" /></a>
 </div>
 </div>
