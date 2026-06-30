@@ -21,7 +21,7 @@
   <div align="center">
    <img src="https://file.garden/aiDPtHaSGigyN1-N/ezgif-769a725a1ed1e1fd.gif" width="17.6%"> <img src="https://file.garden/aiDPtHaSGigyN1-N/funpoison" width="50%"><img src="https://file.garden/aiDPtHaSGigyN1-N/ezgif-769a725a1ed1e1fd.gif" width="17.6%"> 
     <div align="center">
-<img src="https://file.garden/aiDPtHaSGigyN1-N/dividers/picmix.com_2816309.gif" width="85%">
+<img src="https://file.garden/aiDPtHaSGigyN1-N/dividers/picmix.com_2816309.gif" width="100%">
   </div>
   <br>
   <a href="https://git.io/typing-svg">
@@ -29,7 +29,7 @@
   <br>
 </div>
 <div align="center">
-<img src="https://file.garden/aiDPtHaSGigyN1-N/dividers/picmix.com_2769653.gif" width="83%">
+<img src="https://file.garden/aiDPtHaSGigyN1-N/dividers/picmix.com_2769653.gif" width="100%">
   </div>
 <!--TABLE-->
 <!--LEFT PICTURES-->
@@ -62,7 +62,7 @@ As snow falls on desert sky until the end of every<br>
 </tr>
 </table>
 <div align="center">
-<img src="https://file.garden/aiDPtHaSGigyN1-N/dividers/picmix.com_1750258.gif" width="85%">
+<img src="https://file.garden/aiDPtHaSGigyN1-N/dividers/picmix.com_1750258.gif" width="100%">
   </div>
 <!--FINISH TABLE-->
 
