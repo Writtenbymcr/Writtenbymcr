@@ -1,19 +1,36 @@
 <!-- BANNER -->
 <div align="center">
+<img src="https://file.garden/aiDPtHaSGigyN1-N/dividers/picmix.com_2667636.gif" width="50%">
+  </div>
+<div align="center">
   <img src="https://img1.picmix.com/output/stamp/normal/7/5/3/4/1754357_c000b.gif" width="25%">
   <img src="https://file.garden/aiDPtHaSGigyN1-N/gerardsilly" width="40%">
   <img src="https://img1.picmix.com/output/stamp/normal/7/5/3/4/1754357_c000b.gif" width="25%">
 </div>
+<div align="center">
+<img src="https://file.garden/aiDPtHaSGigyN1-N/dividers/picmix.com_2535289.gif" width="50%">
+  </div>
 <!--TITLE TEXT-->
 <div align="center">
   <h1><strong><b>￫ ⸼ ‟ 🌈ﾠWELCOME TO THE BLACK PARADE!„ ⭑ ！</b></strong></h1>
   <img src="https://file.garden/aiDPtHaSGigyN1-N/200_d.gif" width="50%">
-  
+  </div>
+<div align="center">
+<img src="https://file.garden/aiDPtHaSGigyN1-N/dividers/picmix.com_2769652.gif" width="50%">
+  </div>
+  <div align="center">
    <img src="https://file.garden/aiDPtHaSGigyN1-N/ezgif-769a725a1ed1e1fd.gif" width="17.6%"> <img src="https://file.garden/aiDPtHaSGigyN1-N/funpoison" width="50%"><img src="https://file.garden/aiDPtHaSGigyN1-N/ezgif-769a725a1ed1e1fd.gif" width="17.6%"> 
+    <div align="center">
+<img src="https://file.garden/aiDPtHaSGigyN1-N/dividers/picmix.com_2816309.gif" width="85%">
+  </div>
   <br>
-  <br>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Tiny5&size=40&duration=4968&pause=973&color=F700E1&background=002DFF00&center=true&width=435&lines=MCR+FAN;MSI+FAN;DANGANRONPA+FAN;ZENO+FAN;KOMAHINA+SHIPPER;FRERARD+SHIPPER;MCCAFFERTY+LISTENER;SCENE+BOY!" alt="Typing SVG" /></a>
   <br>
 </div>
+<div align="center">
+<img src="https://file.garden/aiDPtHaSGigyN1-N/dividers/picmix.com_2769653.gif" width="83%">
+  </div>
 <!--TABLE-->
 <!--LEFT PICTURES-->
 <table align="center">
@@ -54,7 +71,5 @@ As snow falls on desert sky until the end of every<br>
   <img src="https://file.garden/aiDPtHaSGigyN1-N/2394586_c3116.gif" width="25%">
     <img src="https://file.garden/aiDPtHaSGigyN1-N/gerard-way.gif" width="30%">
     <img src="https://file.garden/aiDPtHaSGigyN1-N/2394586_c3116.gif" width="25%">
-    <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Tiny5&size=40&duration=4968&pause=973&color=F700E1&background=002DFF00&center=true&width=435&lines=MCR+FAN;MSI+FAN;DANGANRONPA+FAN;ZENO+FAN;KOMAHINA+SHIPPER;FRERARD+SHIPPER;MCCAFFERTY+LISTENER;SCENE+BOY!" alt="Typing SVG" /></a>
 </div>
 </div>
