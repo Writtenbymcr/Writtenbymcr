@@ -52,16 +52,17 @@
     ★I’m usually very active; I like playing Roblox, LoL, and any other games you invite me to play. (Secretly, I’m a vampire.)</p>
   <p align="center">
 <img src="https://file.garden/aiDPtHaSGigyN1-N/55bcc502e3575da9db05be8b8bea8475-removebg-preview.png" width="30%">
+    <br>
+    <br>
     </p>
 </td>
+
 <!--FINISH TEXT-->
 </tr>
 </table>
 <div align="center">
 <img src="https://file.garden/aiDPtHaSGigyN1-N/dividers/picmix.com_1750258.gif" width="100%">
   </div>
-  <br>
-  <br>
 <!--FINISH TABLE-->
 <!-- Banner de abajo -->
 <div align="center">
