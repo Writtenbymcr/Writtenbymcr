@@ -83,6 +83,18 @@
 <!-- STAMPS -->
 
 <div align="center">
+  <img src="https://file.garden/aiDPtHaSGigyN1-N/stamps/dd5foka-9696d802-9da2-4210-92b0-5bd5e59a9acf.png" width="15%">
+  <img src="https://file.garden/aiDPtHaSGigyN1-N/stamps/dd5foil-756b2324-52f9-46f3-aa6d-845e55ec9c23.png" width="15%">
+  <img src="https://file.garden/aiDPtHaSGigyN1-N/stamps/dcxw1vf-1cb18c52-17dc-40f9-b1d6-25e6b6b9c2f0.png" width="15%">
+  <img src="https://file.garden/aiDPtHaSGigyN1-N/stamps/dcxw26w-5c6476a3-bbb4-4be8-8e52-f47e5c71a987.png" width="15%">
+  <img src="https://file.garden/aiDPtHaSGigyN1-N/stamps/dcxx0ws-e4230dfc-0a65-4770-ad9f-83aef689b9e4.png" width="15%">
+  <img src="https://file.garden/aiDPtHaSGigyN1-N/stamps/dd5fqe0-3303d4c9-9d44-4fc3-95b8-77e0e4eb3ce8.png" width="15%">
+   <img src="https://file.garden/aiDPtHaSGigyN1-N/stamps/dc9qrvz-768c95c3-f450-401a-bbae-f8772de45503.png" width="15%">
+   <img src="https://file.garden/aiDPtHaSGigyN1-N/stamps/dcbptar-ac004e65-ebea-410f-9b23-4d0f9237faa4.png" width="15%">
+   <img src="https://file.garden/aiDPtHaSGigyN1-N/stamps/dcbppow-a076fec1-43e9-454c-bb14-abf1185b0754.png" width="15%">
+   <img src="https://file.garden/aiDPtHaSGigyN1-N/stamps/d94ix6r-ee6d064c-cd52-4864-ba7c-8b230e872fb6.png" width="15%">
+   <img src="https://file.garden/aiDPtHaSGigyN1-N/stamps/hajime_x_chiaki_stamp_by_shizukanamono_dc7wump-fullview.jpg" width="15%">
+   <img src="https://file.garden/aiDPtHaSGigyN1-N/stamps/d94ibl9-a5613b6f-0863-494c-8773-2d0233840d82.png" width="15%">
    <img src="https://file.garden/aiDPtHaSGigyN1-N/stamps/picmix.com_2804970.gif" width="15%">
    <img src="https://file.garden/aiDPtHaSGigyN1-N/stamps/picmix.com_2546912.png" width="15%">
    <img src="https://file.garden/aiDPtHaSGigyN1-N/stamps/picmix.com_2546931.gif" width="15%">
@@ -173,4 +185,11 @@
  <img src="https://file.garden/aiDPtHaSGigyN1-N/stamps/roblox.png" width="15%">
  <img src="https://file.garden/aiDPtHaSGigyN1-N/stamps/tumblr_033da51063c8665c91f5744acaeb3b40_5351f025_100.webp" width="15%">
  <img src="https://file.garden/aiDPtHaSGigyN1-N/stamps/tumblr_baf11ea67f8b53145d944bf1c7d78b52_5f2a7822_100.webp" width="15%">
+  <img src="https://file.garden/aiDPtHaSGigyN1-N/stamps/dbhhnvc-c927ea51-229f-4e4c-9daf-5f93a10e6dcf.png" width="15%">
+   <img src="https://file.garden/aiDPtHaSGigyN1-N/stamps/dbhhnqx-b16edee8-124f-4d7d-9cce-cd30cff54352.png" width="15%">
+   <img src="https://file.garden/aiDPtHaSGigyN1-N/stamps/dbhhyyh-f33f0bbd-7e37-4366-98e9-5c48956759d1.png" width="15%">
+   <img src="https://file.garden/aiDPtHaSGigyN1-N/stamps/da29lh5-2320837c-465a-4c8d-bf4e-c9388f0774b0.gif" width="15%">
+   <img src="https://file.garden/aiDPtHaSGigyN1-N/stamps/da29mta-c1ab60aa-1cef-4f7d-ad7d-8de86bf32cfe.gif" width="15%">
+   <img src="https://file.garden/aiDPtHaSGigyN1-N/stamps/dah6i1d-b92dcf1a-7ed6-4cd4-9d8f-0e2e8c47ad10.gif" width="15%">
+  
 </div>
